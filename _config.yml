@@ -16,7 +16,7 @@
 title: Kenza Elass
 email: kenza.elass@univ-amu.fr
 description: Personal website
-# twitter_username: ElassKenza
+twitter_username: ElassKenza
 
 minimal_mistakes_skin: contrast
 search: true
@@ -57,7 +57,7 @@ author:
   name   : "Kenza Elass"
   avatar : "/assets/images/photo.jpg"
   bio    : "PhD candidate in **Labour** and **Gender** Economics at the Aix-Marseille School of Economics."
-#  location : "France"
+  location : "France"
   
 
 defaults:
