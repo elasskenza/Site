@@ -1,7 +1,5 @@
 ---
-
 permalink: /home/
-
 ---
 
 ## Welcome
