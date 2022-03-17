@@ -1,6 +1,7 @@
 ---
-title: "Home"
+
 permalink: /home/
+title: "Home"
 
 ---
 
