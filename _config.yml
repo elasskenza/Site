@@ -66,13 +66,13 @@ author:
       url: "https://twitter.com/ElassKenza"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:kenza.elass@univ-amu.fr"
+       url: "mailto:kenza.elass@univ-amu.fr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://elasskenza.github.io/Site/"  
+       url: "https://elasskenza.github.io/Site/"  
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"  
+       url: "https://github.com/"  
 
 
 footer:
@@ -82,13 +82,13 @@ footer:
       url: "https://twitter.com/ElassKenza"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:kenza.elass@univ-amu.fr"
+       url: "mailto:kenza.elass@univ-amu.fr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://elasskenza.github.io/Site/"  
+       url: "https://elasskenza.github.io/Site/"  
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"     
+       url: "https://github.com/"     
 
 defaults:
   # _posts
