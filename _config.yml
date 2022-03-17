@@ -56,12 +56,23 @@ plugins:
 author:
   name   : "Kenza Elass"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD candidate in Labour and Gender Economics at the Aix-Marseille School of Economics."
-  links:
+  bio    : "PhD candidate in **Labour** and **Gender** Economics at the Aix-Marseille School of Economics."
+  location : "France"
+ 
+ links:
 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ElassKenza"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:kenza.elass@univ-amu.fr"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://elasskenza.github.io/Site/"  
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"  
 
 
 footer:
@@ -69,6 +80,15 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ElassKenza"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:kenza.elass@univ-amu.fr"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://elasskenza.github.io/Site/"  
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"     
 
 defaults:
   # _posts
