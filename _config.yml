@@ -18,7 +18,8 @@ email: kenza.elass@univ-amu.fr
 description: Personal website
 twitter_username: ElassKenza
 
-#minimal_mistakes_skin: dirt
+minimal_mistakes_skin: air
+locale                   : "en-US"
 search: true
 
 # Build settings
