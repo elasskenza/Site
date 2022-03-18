@@ -45,6 +45,11 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+ 
+header:
+  overlay_image: /assets/images/IMG_8579.jpg
+
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
