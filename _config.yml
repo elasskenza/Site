@@ -107,6 +107,7 @@ defaults:
       share: true
       related: true
       logo: true
+      header: true
   # _pages
   - scope:
       path: "_pages"
