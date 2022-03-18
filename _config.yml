@@ -47,7 +47,7 @@ include:
 
  
 header:
-  overlay_image: "/assets/images/IMG_8579.jpg"
+  overlay_image: "/assets/images/IMG_8579.JPG"
 
 
 # Plugins (previously gems:)
