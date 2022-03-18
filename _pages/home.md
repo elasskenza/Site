@@ -2,7 +2,6 @@
 permalink: /home/
 ---
 
-## Welcome
 
 I am a **PhD candidate** in economics at the [Aix Marseille School of Economics](https://www.amse-aixmarseille.fr/en/members/elass) – Aix Marseille University.
 
