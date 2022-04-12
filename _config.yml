@@ -22,6 +22,11 @@ minimal_mistakes_skin: air
 locale                   : "en-US"
 search: true
 
+header:
+  overlay_image: "/assets/images/IMG_8579.JPG"
+
+
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -46,9 +51,6 @@ include:
 #   - vendor/ruby/
 
  
-header:
-  overlay_image: "/assets/images/IMG_8579.JPG"
-
 
 # Plugins (previously gems:)
 plugins:
