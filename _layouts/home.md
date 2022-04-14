@@ -1,14 +1,9 @@
 ---
 layout: splash
 permalink: / 
-excerpt: "This post should [...]"
+excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
 header:
-  overlay_image: /assets/images/IMG_8579.JPG
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"   
+  overlay_color: "#333"
 ---
 
 
