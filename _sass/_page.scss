@@ -3,7 +3,9 @@
    ========================================================================== */
 
 #main {
+  @include container;
   @include clearfix;
+  margin-top: 2em;
   margin-left: 1em;
   margin-right: auto;
   padding-left: 1em;
@@ -15,7 +17,7 @@
   animation-delay: 0.15s;
 
   @include breakpoint($x-large) {
-    max-width: $max-width;
+    max-width: $x-large;
   }
 }
 
@@ -38,8 +40,11 @@ body {
 .page {
   @include breakpoint($large) {
     float: right;
-    width: calc(40% - #{$right-sidebar-width-narrow});
+    width: calc(80% - #{$right-sidebar-width-narrow});
     padding-right: $right-sidebar-width-narrow;
+	@include span(10 of 12 last);
+    @include prefix(0.5 of 12);
+    @include suffix(2 of 12);
   }
 
   @include breakpoint($x-large) {
@@ -88,6 +93,7 @@ body {
 }
 
 .page__content {
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
@@ -130,6 +136,8 @@ body {
   }
 
   a:not(.btn) {
+							   
+
     &:hover {
       text-decoration: underline;
 
@@ -278,6 +286,7 @@ body {
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
 
 /*
    Page meta
@@ -430,6 +439,7 @@ body {
 
 .page__comments-form {
   -webkit-transition: $global-transition;
+							
   transition: $global-transition;
 
   &.disabled {
@@ -505,6 +515,7 @@ body {
   }
 }
 
+
 /*
    Related
    ========================================================================== */
@@ -515,6 +526,8 @@ body {
   margin-top: 2em;
   padding-top: 1em;
   border-top: 1px solid $border-color;
+					  
+			  
 
   @include breakpoint($large) {
     float: right;
