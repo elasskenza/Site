@@ -51,6 +51,10 @@ body {
     @include suffix(2 of 12);
   }
 
+	@media (min-width: 64em)
+article.page.h-entry {
+    padding-left: 3em;
+}
   @include breakpoint($x-large) {
     width: calc(80% - #{$right-sidebar-width});
     padding-right: $right-sidebar-width;
