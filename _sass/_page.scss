@@ -49,6 +49,8 @@ body {
 	@include span(10 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
+    padding-left: 3em;	  
+    font-size: medium;
   }
 
   @include breakpoint($x-large) {
@@ -61,7 +63,9 @@ body {
     margin-top: 1em;
     margin-left: 1em;
     margin-right: 0;
-    width: 80%;  
+    width: 80%;	
+    padding-left: 3em;	  
+    font-size: medium;
     clear: both;
 
     .page__content,
@@ -97,6 +101,8 @@ body {
 }
 
 .page__content {
+  padding-left: 3em;	  
+  font-size: medium;
 
   h2 {
     padding-bottom: 0.5em;
