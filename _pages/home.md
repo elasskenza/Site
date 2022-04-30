@@ -6,7 +6,7 @@ title: "Welcome"
 
 <style type="text/css">
   body{
-  font-size: 14pt;
+  font-size: 13.5pt;
 }
 </style>
 
