@@ -1,12 +1,39 @@
 /* ==========================================================================
    SINGLE PAGE/POST
    ========================================================================== */
+	  
+		   
+	   
 
+			
+		  
+ 
+	
+	  
+												
+	
+	  
+			 
+	   
+		
+	
+		
+		
+		
+				 
+	   
+		   
+									
+																
+										  
+	 
+				
 #main {
   @include clearfix;
   margin-left: auto;
+  margin-top: 1em;
   margin-right: auto;
-  padding-left: 1em;
+  padding-left: 3em;
   padding-right: 1em;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -17,6 +44,10 @@
   @include breakpoint($x-large) {
     max-width: $max-width;
   }
+}
+
+.author__bio {
+font-size: 5px;
 }
 
 body {
@@ -40,6 +71,10 @@ body {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
     padding-right: $right-sidebar-width-narrow;
+							   
+							 
+						 
+					  
   }
 
   @include breakpoint($x-large) {
@@ -53,6 +88,8 @@ body {
     margin-left: 0;
     margin-right: 0;
     width: 100%;
+						 
+					  
     clear: both;
 
     .page__content,
@@ -88,8 +125,11 @@ body {
 }
 
 .page__content {
+					   
+					
   h2 {
     padding-bottom: 0.5em;
+				   
     border-bottom: 1px solid $border-color;
   }
 
@@ -128,6 +168,7 @@ body {
       }
     }
   }
+			   
 
   a:not(.btn) {
     &:hover {
@@ -430,6 +471,7 @@ body {
 
 .page__comments-form {
   -webkit-transition: $global-transition;
+	   
   transition: $global-transition;
 
   &.disabled {
@@ -516,6 +558,7 @@ body {
   padding-top: 1em;
   border-top: 1px solid $border-color;
 
+	 
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
@@ -562,3 +605,24 @@ body {
     }
   }
 }
+							
+		   
+ 
+ 
+			   
+					
+															   
+																			
+					
+	 
+	   
+		
+	  
+	
+			  
+	   
+   
+		
+	
+	 
+				
