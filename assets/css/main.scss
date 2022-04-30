@@ -19,3 +19,12 @@ html {
     font-size: 22px; // change to whatever
   }
 }
+
+element.style {
+}
+.sidebar p, .sidebar li {
+    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    font-size: .75em;
+    padding-right: 1.5em;
+    line-height: 1.5;
+}
