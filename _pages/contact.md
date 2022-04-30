@@ -4,7 +4,11 @@ title: "Contact"
 author_profile: true
 ---
 
-
+<style type="text/css">
+  body{
+  font-size: 13.5pt;
+}
+</style>
 
 ## Twitter  
 [@ElassKenza](https://twitter.com/ElassKenza).
