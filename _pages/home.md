@@ -4,7 +4,11 @@ author_profile: true
 title: "Welcome"
 ---
 
-
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
 
 
 
