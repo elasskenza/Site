@@ -185,13 +185,13 @@
 
 .author__bio {
   margin: 0;
-  padding-right: 0.5em;
+  padding-right: 1em;
 	
 
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
-	padding-right: 2em; 				
+    padding-right: 2em; 				
   }
 }
 
